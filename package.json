@@ -1,0 +1,15 @@
+{
+  "name": "faker-server",
+  "version": "1.0.0",
+  "description": "fake server with json server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
