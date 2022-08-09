@@ -1,88 +1,114 @@
 {
-    "users": [
+"menu": [
         {
-          "id": 1,
-          "first_name": "Justina",
-          "last_name": "Ginglell",
-          "email": "jginglell0@networkadvertising.org",
-          "gender": "Female"
+            "id": 1,
+            "type": "cà phê , nóng",
+            "name" : "cà phê đen nóng đá",
+            "price": 10000,
+            "image": "https://i0.wp.com/caphekhoanbetong.com/wp-content/uploads/2021/09/den-nong-ca-phe-nguyen-vi-thom-ngon-dam-sau-4.jpg?resize=800%2C495&ssl=1"
+        },
+         {
+            "id": 2,
+            "type": "cà phê , đá xay",
+            "name" : "cà phê đá xay pha kem",
+            "price": 20000,
+            "image": "https://cdn.beptruong.edu.vn/wp-content/uploads/2019/02/cach-lam-do-uong-da-xay.jpg"
+        },
+         {
+            "id": 3,
+            "type": "cà phê , đá xay",
+            "name" : "cà phê xay chocolate",
+            "price": 25000,
+            "image": "https://cdn.beptruong.edu.vn/wp-content/uploads/2019/02/cach-lam-do-uong-da-xay.jpg"
+        },
+         {
+            "id": 4,
+            "type": "ca phê xay hương chuối",
+            "name" : "cà phê xay chocolate",
+            "price": 25000,
+            "image": "https://cdn.beptruong.edu.vn/wp-content/uploads/2019/02/cach-lam-do-uong-da-xay.jpg"
+        },
+         {
+            "id": 5,
+            "type": "cà phê , đá xay",
+            "name" : "cà phê xay chocolate",
+            "price": 20000,
+            "image": "https://cdn.beptruong.edu.vn/wp-content/uploads/2019/02/cach-lam-do-uong-da-xay.jpg"
         },
         {
-          "id": 2,
-          "first_name": "Marion",
-          "last_name": "Jenman",
-          "email": "mjenman1@surveymonkey.com",
-          "gender": "Male"
+            "id": 6,
+            "type": "nước ép",
+            "name" : "cà phê xay chocolate",
+            "price": 25000,
+            "image": "https://cdn.beptruong.edu.vn/wp-content/uploads/2019/02/cach-lam-do-uong-da-xay.jpg"
         },
         {
-          "id": 3,
-          "first_name": "Alfy",
-          "last_name": "Begin",
-          "email": "abegin2@list-manage.com",
-          "gender": "Female"
+            "id": 7,
+            "type": "nước ép",
+            "name" : "cam ép",
+            "price": 25000,
+            "image": "https://cdn.beptruong.edu.vn/wp-content/uploads/2019/02/cach-lam-do-uong-da-xay.jpg"
         },
         {
-          "id": 4,
-          "first_name": "Karney",
-          "last_name": "Zanussii",
-          "email": "kzanussii3@hao123.com",
-          "gender": "Male"
+            "id": 8,
+            "type": "nước ép",
+            "name" : "bưởi ép",
+            "price": 25000,
+            "image": "https://cdn.beptruong.edu.vn/wp-content/uploads/2019/02/cach-lam-do-uong-da-xay.jpg"
         },
         {
-          "id": 5,
-          "first_name": "Reid",
-          "last_name": "Schapero",
-          "email": "rschapero4@timesonline.co.uk",
-          "gender": "Male"
+            "id": 9,
+            "type": "nước ép",
+            "name" : "cốc ép",
+            "price": 25000,
+            "image": "https://cdn.beptruong.edu.vn/wp-content/uploads/2019/02/cach-lam-do-uong-da-xay.jpg"
         },
         {
-          "id": 6,
-          "first_name": "Dorine",
-          "last_name": "Braybrookes",
-          "email": "dbraybrookes5@gov.uk",
-          "gender": "Female"
-        },
-        {
-          "id": 7,
-          "first_name": "Sarena",
-          "last_name": "Frape",
-          "email": "sfrape6@alexa.com",
-          "gender": "Female"
-        },
-        {
-          "id": 8,
-          "first_name": "Malva",
-          "last_name": "Pierse",
-          "email": "mpierse7@usda.gov",
-          "gender": "Female"
-        },
-        {
-          "id": 9,
-          "first_name": "Rania",
-          "last_name": "Dablin",
-          "email": "rdablin8@state.gov",
-          "gender": "Female"
-        },
-        {
-          "id": 10,
-          "first_name": "Ingrim",
-          "last_name": "Offen",
-          "email": "ioffen9@slideshare.net",
-          "gender": "Male"
-        },
-        {
-          "id": 11,
-          "first_name": "Ingrim",
-          "last_name": "Offen",
-          "email": "ioffen9@slideshare.net",
-          "gender": "Male"
-        },
-        {
-          "id": 12,
-          "first_name": "Ingrim",
-          "last_name": "Offen",
-          "email": "ioffen9@slideshare.net",
-          "gender": "Male"
+            "id": 10,
+            "type": "nước ép",
+            "name" : "cà rốt ép",
+            "price": 25000,
+            "image": "https://cdn.beptruong.edu.vn/wp-content/uploads/2019/02/cach-lam-do-uong-da-xay.jpg"
         }
-      ]
+        ,
+        {
+            "id": 10,
+            "type": "trà sữa",
+            "name" : "trà sữa việt quất",
+            "price": 25000,
+            "image": "https://cdn.beptruong.edu.vn/wp-content/uploads/2019/02/cach-lam-do-uong-da-xay.jpg"
+        },
+        {
+            "id": 10,
+            "type": "trà sữa",
+            "name" : "trà sữa truyền thống",
+            "price": 25000,
+            "image": "https://cdn.beptruong.edu.vn/wp-content/uploads/2019/02/cach-lam-do-uong-da-xay.jpg"
+        },
+        {
+            "id": 10,
+            "type": "trà sữa",
+            "name" : "trà sữa vị dâu tây",
+            "price": 25000,
+            "image": "https://cdn.beptruong.edu.vn/wp-content/uploads/2019/02/cach-lam-do-uong-da-xay.jpg"
+        },
+        {
+            "id": 10,
+            "type": "trà sữa",
+            "name" : "trà sữa thập cẩm",
+            "price": 25000,
+            "image": "https://cdn.beptruong.edu.vn/wp-content/uploads/2019/02/cach-lam-do-uong-da-xay.jpg"
+        },
+        {
+            "id": 10,
+            "type": "trà sữa",
+            "name" : "trà sữa matcha",
+            "price": 25000,
+            "image": "https://cdn.beptruong.edu.vn/wp-content/uploads/2019/02/cach-lam-do-uong-da-xay.jpg"
+        }
+    ],
+ "status": {
+   "success": 200,
+   "error": "endpoint had error"
+ }
 }
